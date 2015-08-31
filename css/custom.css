@@ -1,0 +1,137 @@
+@charset "UTF-8";
+/* CSS Document */
+.blog-link{
+	border: 2px solid;
+	border-radius: 3px;
+	padding:14px;
+}
+
+@media (max-width:766px)
+{
+	.blog-link{
+		border:none;
+		padding:0;
+	}
+}
+
+header .intro-text {
+	padding-top: 510px;
+	padding-bottom:	50px;
+}
+
+h1.header-quote{
+	font-size: 30px;
+	text-align:center;
+	margin: 10px 50px 10px 50px;
+  	font-weight: 300;
+  	line-height: 1.6em;
+  	color: #000;
+}
+
+@media (max-width:1199px)
+{
+	h1.header-quote{
+		font-size: 20px;	
+	}
+}
+
+@media (max-width:630px)
+{
+	h1.header-quote{
+		font-size: 16px;	
+	}
+}
+
+@media (max-width:530px)
+{
+	h1.header-quote{
+		font-size: 14px;	
+	}
+}
+
+#reviews {
+	height: 100px;
+}
+
+
+#reviews p{
+	font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 18px;
+	margin:22px;
+	color:#555;
+}
+
+@media (max-width:630px)
+{
+	#reviews {
+	height: 60px;
+	}
+
+
+	#reviews p{
+		font-size: 14px;
+	}
+}
+
+@media (max-width:530px)
+{
+	#reviews {
+	height: 60px;
+	}
+
+
+	#reviews p{
+		font-size: 12px;
+	}
+}
+
+p.quotes {
+	display: none;
+}​
+
+section#quote{
+	height:700px;	
+}
+
+section#music {
+	background-image: url("../Pictures/roomunslanted.jpg");
+	background-size:cover;
+	background-color:#fefaf0;
+}
+
+
+section#music h3.section-subheading {
+	margin-bottom:40px;
+}
+
+section#about {
+	background-color:#fff;
+}
+
+section#about h3.section-subheading {
+	margin-bottom:40px;
+}
+
+section#about p{
+font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size:18px;
+}
+
+@media (max-width:780px)
+{
+	section#about p{
+	font-size:14px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+}
+
+p.contact-info{
+	font-size:26px;
+}
+
+
+section#contact{
+	min-height:580px;
+}
+

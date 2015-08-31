@@ -1,0 +1,5 @@
+to adjust stuff you can use embed widget from https://audiosprite.bandcamp.com/
+
+wide with small art - <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=4010447247/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://audiosprite.bandcamp.com/album/epanalepsis">Epanalepsis by John Fio</a></iframe>
+
+wide with big art - <iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=4010447247/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://audiosprite.bandcamp.com/album/epanalepsis">Epanalepsis by John Fio</a></iframe>
